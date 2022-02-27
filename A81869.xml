@@ -1,0 +1,424 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Altum silentium or, silence the duty of saints, under every sad providence. An occasional sermon preached after the death of a daughter, by her father: viz. / By John Durant preacher of the gospel in Christ's-Church Canterbury.</title>
+            <author>John Durant, b. 1620.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81869</idno>
+            <idno type="STC">Wing D2670</idno>
+            <idno type="STC">Thomason E2136_1</idno>
+            <idno type="STC">ESTC R208350</idno>
+            <idno type="EEBO-CITATION">99867307</idno>
+            <idno type="PROQUEST">99867307</idno>
+            <idno type="VID">119614</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119614)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 243:E2136[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Altum silentium or, silence the duty of saints, under every sad providence. An occasional sermon preached after the death of a daughter, by her father: viz. / By John Durant preacher of the gospel in Christ's-Church Canterbury.</title>
+                  <author>John Durant, b. 1620.</author>
+               </titleStmt>
+               <extent>[16], 43, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Streater, and are to be sold in Popes-head-Ally, near Corn-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: The silent soul, under sorest tryals.</note>
+                  <note>Annotation on Thomason copy: "Sept: Sept".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Korey Jackson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Korey Jackson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119614:1" rendition="simple:additions"/>
+            <p>
+               <hi>Altum Silentium:</hi> OR, SILENCE THE Duty of Saints, UNDER Every ſad providence AN Occaſional SERMON Preached after the Death of a Daughter, by her Father: <hi>viz.</hi>
+            </p>
+            <p>By <hi>John Durant</hi> Preacher of the Goſpel in Chriſt's-Church <hi>Canterbury.</hi>
+            </p>
+            <q>
+               <p>What ſhall I ſay? He hath both ſpoken to me, and Himſelf hath done it?</p>
+               <bibl>
+                  <hi>Iſa. 38.15.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Streater,</hi> and are to be ſold in <hi>Popes-head-Ally,</hi> near <hi>Corn-Hill.</hi> 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119614:2"/>
+            <pb facs="tcp:119614:2"/>
+            <head>TO The Reader.</head>
+            <opener>
+               <salute>Chriſtian Friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Book of <hi>Job</hi> (ſaith <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi>) is the afflicted man's Scripture: And I may ſay, this little Book is the af<g ref="char:EOLhyphen"/>flicted man's duty; A little pearl may be of great of price, and ſuch is this little Treatiſe that now is put into thy hand.</p>
+            <p>The waves did but lift <hi>Noah</hi>'s Ark nea<g ref="char:EOLhyphen"/>rer to heaven, and the higher the water roſe the nearer the Ark was lifted up to heaven: ſometimes ſuch an operation, afflictions have
+<pb facs="tcp:119614:3"/>upon <hi>Noahs,</hi> upon Preachers of Righteouſ<g ref="char:EOLhyphen"/>neſſe; And if they have not had the ſame operation upon the Authour of the enſuing diſcourſe, I am much miſtaken. Afflicti<g ref="char:EOLhyphen"/>ons to ſome, are like the prick at the Nigh<g ref="char:EOLhyphen"/>tingals breaſt, that awakes her and puts her upon her ſweet and delightfull noats; And whether they have not had ſuch an operati<g ref="char:EOLhyphen"/>on upon the worthy Author, I will leave the Reader to judge. The more, precious O<g ref="char:EOLhyphen"/>dours, and the pureſt Spices, are beaten and bruiſed, the ſweeter Scent and Savour they ſend abroad: Had not God bruiſed to death one of the choiſeſt and ſweeteſt flowers in the Author's Garden, he had not ſent a<g ref="char:EOLhyphen"/>broad this ſweet and ſavoury Sermon.</p>
+            <p>We try Metall by knocking; if it ſound well then we like it well. That's a tryed Chriſtian, a thorough-Chriſtian indeed, that gives a pleaſant ſound when under the knocking-hand of God: If thou layeſt thine Ear, thy Heart, cloſe to the following Tract thou wilt hear ſuch a ſound as will be ſwee<g ref="char:EOLhyphen"/>ter to thee then the hony or the Hony-comb.</p>
+            <pb facs="tcp:119614:3"/>
+            <p>That Chriſtian is worth a world, who under the ſoreſt and ſharpeſt afflictions, is like the ſtone in <hi>Thracia,</hi> that neither burneth in the fire, nor ſinketh in the wa<g ref="char:EOLhyphen"/>ter. Whoſe ſilence and patience is invin<g ref="char:EOLhyphen"/>cible and impregnable. None are ſuch an honour to God, ſuch a glory to the Goſpel, ſuch a ſhame to Satan, and ſuch a wonder to the World as theſe; who can lay their hands upon their mouths, when God's Rod layes heavy upon their backs. That this is every Chriſtians duty and glory, is fully and ſweetly evinced in the following Diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            <p>Happy are we when Gods Corrections are our Inſtructions, His laſhes our leſsons,<note place="margin">Iſa. 26.9. Pſal. 94.12. Prov. 3.12, 13. <hi>Chap.</hi> 6.23.</note> His ſcourges our School-Maſters, His chaſtiſe<g ref="char:EOLhyphen"/>ments our Advertiſements. And to note this, the Hebrews and Greeks both, expreſſe Chaſtening and Teaching by one and the ſame word. (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) becauſe the
+<pb facs="tcp:119614:4"/>latter is the true end of the former, accor<g ref="char:EOLhyphen"/>ding to that in the proverb, Smart makes wit, and, Vexation gives underſtanding. That this happineſse the Reader may attain to, is the thing endeavoured by the Au<g ref="char:EOLhyphen"/>thor.</p>
+            <p>Reader, thou haſt much wrapt up in a little, 'tis more to be admired than to have <hi>Homer's Iliads</hi> compriz'd in a Nut-ſhell; 'Tis a mourning Sermon, and Mourning ſhould be plain. The Reverend Author knew right well, that 'twas better to preſent Truth in her Native plainneſse, then to hang her ears with counterfeit Pearls. He knew that the King of <hi>Nineveh</hi> was a King as well in his ſack-cloth, as in his Royal Robes: The Author is known to be a Maſter workman, and one that could eaſily ſhoot his arrowes over his hea<g ref="char:EOLhyphen"/>rers heads;<note place="margin">See his pre<g ref="char:EOLhyphen"/>cious works in Print, and then Judge.</note> but he had ra<g ref="char:EOLhyphen"/>ther ſhoot them into his hearers hearts: He dares not affect ſublime notions, obſcure expreſsi<g ref="char:EOLhyphen"/>ons,
+<pb facs="tcp:119614:4"/>which are but myſterious Nothings. He dares not do as many, who make plain truths difficult, and eaſy truths hard, and ſo darken counſell by words without know<g ref="char:EOLhyphen"/>ledge, <hi>Job 38.2.</hi> If thou wilt but taſt and try, thou wilt find this little Treatiſe to be a heavenly Hony-hive to thy Soul.</p>
+            <p>If thou ſhalt ſay, Oh! 'tis ſweet, 'tis ſea<g ref="char:EOLhyphen"/>ſonable, 'tis ſuitable to my condition, and to God's diſpenſations abroad in the world; but, why have we no more of this ſweet Wine, no more of this Water of life, no more of theſe Cluſters of Canaan? I muſt tell thee, that the honoured Authour buried his dear and hopefull daughter on the Friday, and preached this Sermon the Sabbath day following; and therefore thou haſt more cauſe to bleſſe the Lord, and admire the Lord for his goodneſſe, aſſiſtance, and pre<g ref="char:EOLhyphen"/>ſence with the Authour, that has inabled him to bring forth a truth of ſo great weight and concernment to us, even then, when he was under ſuch ſore and ſharp rebukes of God. 'Tis not every ones happineſse to
+<pb facs="tcp:119614:5"/>have ſuch a preſence of God with them, when the Rod of God is heavy upon them.</p>
+            <p>
+               <hi>Reader,</hi> the point inſiſted on, is a point of ſpeciall uſe to Christians; eſpecially to ſuch as are under the afflicting hand of God, whether in ſpirituals or in temporals: And if storms ſhould fall upon us from abroad, or at home, it will be found (in the uſe of it) more worth then Gold. I have read of the ſtone <hi>Garaman<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ides,</hi> that hath drops of Gold in it; many a golden drop wilt thou find in the f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llowing Lines. As <hi>Moſes</hi> laid up the Manna in the golden Pot, and as <hi>Alexander</hi> kept <hi>Homer's Iliads</hi> in a Cabinet embroidered with Gold, ſo do thou <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay up this Sermon in the golden Cabinet of thy heart. If troubles at preſent are not upon thee, yet thou muſt remem<g ref="char:EOLhyphen"/>ber that thou art born to them,<note place="margin">Job 5.7. John 16. <hi>ult.</hi> 14. Acts 21.22.</note> as the ſparks fly upwards. God had but one Son without ſin, he hath no Son without ſorrow; he had but one without corruption, he had none without correction;
+<pb facs="tcp:119614:5"/>he ſcourgeth every Son whom he receives, he can quickly turn thy Summer day into a Winter night, and then this Sermon may be to thee a ſutable and an invaluable mercy. I ſhall onely take leave to hint a few things to the Author my Reverend Bro<g ref="char:EOLhyphen"/>ther, and to my dear Siſter his virtuous yoakfellow, who are above all others con<g ref="char:EOLhyphen"/>cerned in this ſharp and ſmart diſpenſati<g ref="char:EOLhyphen"/>on, and ſo conclude.</p>
+            <p>Firſt, That well grounded hope, confi<g ref="char:EOLhyphen"/>dence and aſsurance, that you and others had of the buddings and bloſſomings of grace in her, in her tender age, and of her being now at reſt in the boſome of the Fa<g ref="char:EOLhyphen"/>ther, ſhould not onely quiet and ſilence you,<note place="margin">Heb. 11.4.</note> but alſo joy and re<g ref="char:EOLhyphen"/>joyce you. Why may you not think that you hear her, though dead, yet ſpeaking thus unto you?</p>
+            <q>
+               <l>When God has ſtampt his Image upon a mite,</l>
+               <l>'Tis meet that God ſhould have his right:</l>
+               <l>After a few years paſt, a wearied breath</l>
+               <l>I have exchanged for a happy death.</l>
+               <pb facs="tcp:119614:6"/>
+               <l>Short was my Life, the longer is my reſt:</l>
+               <l>God takes them ſooneſt whom he loveth beſt.</l>
+               <l>She that is born to day, and dies to morrow,</l>
+               <l>Loſes ſome hours of joy, but Years of ſorrow.</l>
+               <l>Other diſeaſes often come to grieve us,</l>
+               <l>Death ſtrikes but once, and that ſtroke relieves us.</l>
+               <l>Therefore (my parents dear) take heed of weeping Croſſe,</l>
+               <l>And mind my happineſſe, more then your own great Loſſe.</l>
+               <l>This is all I'le ſay, to make the reckoning eaven,</l>
+               <l>Your deareſt mercy, is not too good for heaven.</l>
+               <l>Haſten to me, where now I am poſſeſt,</l>
+               <l>With joyes eternal, in Chriſt my onely reſt.</l>
+            </q>
+            <p>Secondly, The deſignes of God in all the ſharp afflictions, He exerciſes his Children with, are glorious, As
+<list>
+                  <item>
+                     <hi>(1.)</hi> the pur<g ref="char:EOLhyphen"/>ging away of their ſins, <hi>Iſa. 1.25.</hi>
+                  </item>
+                  <item>
+                     <hi>(2.)</hi> The making of them more partakers of his holineſse, <hi>Heb. 12.10.</hi>
+                  </item>
+                  <item>
+                     <hi>(3.)</hi> The tryal of their graces, <hi>Job. 23.10.</hi>
+                  </item>
+                  <item>
+                     <hi>(4.)</hi> The commu<g ref="char:EOLhyphen"/>nication of more of Himſelf, and of his love to their ſouls, <hi>Hoſea 1.14.</hi>
+                  </item>
+                  <item>
+                     <hi>(5.)</hi> The mul<g ref="char:EOLhyphen"/>tiplying of their ſpiritual experiences, <hi>2 Cor. 1.4, 5.</hi>
+                  </item>
+                  <item>
+                     <hi>(6.)</hi> The cruci<g ref="char:EOLhyphen"/>fying of their hearts to the world,<note place="margin">
+                        <hi>Now</hi> finis dat ama<g ref="char:EOLhyphen"/>bilitatem &amp; facili<g ref="char:EOLhyphen"/>tatem mediis.</note> and the world to their
+<pb facs="tcp:119614:6"/>hearts, <hi>Gal. 6.14.</hi>
+                  </item>
+                  <item>
+                     <hi>(7.)</hi> To draw them to look and ſix their ſouls upon the great con<g ref="char:EOLhyphen"/>cernment of another world, <hi>John 14.1, 2, 3.</hi>
+                  </item>
+                  <item>
+                     <hi>(8.)</hi> That heaven may be the more ſweet and precious to them at laſt, <hi>2 Cor. 4.16, 17, 18. Rom. 8.17, 18.</hi> How ſweet is a calme after a ſtorme, and ſummer dayes after long win<g ref="char:EOLhyphen"/>ter nights!</item>
+                  <item>
+                     <hi>(9.)</hi> To make them more and more conformable to Chriſt their Head, <hi>Rom. 8.17.</hi>
+                  </item>
+                  <item>
+                     <hi>(10.)</hi> That ſinners may at the laſt be found dumb and ſpeechleſſe, <hi>1 Per. 4.17, 18.</hi> Now, Is there not enough in theſe glo<g ref="char:EOLhyphen"/>rious ends and deſignes of God to make his people ſit mute under the ſharpeſt tryals? Surely there is. Why then, don't they ſit ſi<g ref="char:EOLhyphen"/>lent before the Lord?</item>
+               </list>
+            </p>
+            <p>Thirdly, All the mercies you enjoy, were firſt the Lora's before they were yours; and alwayes the Lora's more then they were yours, <hi>1</hi> Chron. <hi>29.14. All things come of thee, and of thine own have we gi<g ref="char:EOLhyphen"/>ven thee.</hi> The ſweet of mercy is yours, but
+<pb facs="tcp:119614:7"/>the Sovereign right to diſpoſe of your mer<g ref="char:EOLhyphen"/>cies is the Lora's. <hi>Quicquid es, debes creanti; quicquid pores, debes redi<g ref="char:EOLhyphen"/>menti; Bern.</hi> Whatſoever thou art, thou oweſt to him that made thee, and whatſo<g ref="char:EOLhyphen"/>ever thou haſt, thou oweſt to him that re<g ref="char:EOLhyphen"/>deemed thee. Say, as <hi>Hierom</hi> adviſeth a friend of his (in the like cauſe), Thou haſt taken away whom thou haſt given me: I grieve not that thou haſt taken them, but praiſe the Lord that was pleaſed to give them. You think it but juſt and rea<g ref="char:EOLhyphen"/>ſonable that men ſhould deal with their own as they pleaſe: And is it not much more juſt and reaſonable that God ſhould do with his own as he pleaſes?</p>
+            <p>Fourthly, That God that has taken one, might have taken all; there are ſeveral left, though one be taken. <hi>Job,</hi> you know, was a none-ſuch in his generation, and yet the ſentence of death was paſt upon all his Children at a clap: and under this ſad clap, <hi>Job</hi> does not blaſpheme, but bleſſe; He does not murmur, but worſhip's: He ac<g ref="char:EOLhyphen"/>cuſes
+<pb facs="tcp:119614:7"/>not God, but cleares God of injuſtice, under the ſaddeſt and ſevereſt ſtroaks of juſtice, <hi>Job 1.</hi> Geographers write that the City of <hi>Syracuſe</hi> in <hi>Sicily</hi> is ſo curiouſly ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ituated, that the Sun is never out of ſight. The Sun of mercy is never out of your ſight: though one mercy be gone, yet you have ſe<g ref="char:EOLhyphen"/>veral that remain, and this ſhould make you mute.</p>
+            <p>
+               <hi>Themiſtocles</hi> invited many <hi>Philoſo<g ref="char:EOLhyphen"/>phers</hi> to ſupper; the owner ſends for one half of thoſe neceſsaries that he was uſing: Can you endure this diſgrace, ſaid the <hi>Phi<g ref="char:EOLhyphen"/>loſophers.</hi> Yes (ſaid he) very well, for he might have ſent juſtly for them all: the ap<g ref="char:EOLhyphen"/>plication is eaſie, Oh! let not nature do more then grace.</p>
+            <p>Fifthly and Eaſtly, Under ſharp afflicti<g ref="char:EOLhyphen"/>ons, we ought, carefully to look that natural affections don't hinder the exerciſe of gra<g ref="char:EOLhyphen"/>cious diſpoſitions: though we may weep,<note place="margin">1 Theſ. 4.13.</note> yet we may not weep out either the eye of faith, or the eye of hope: though you may water
+<pb facs="tcp:119614:8"/>your flowers, yet you may not drown your flowers. They that wep't, yea that wep't <hi>much,</hi>
+               <note place="margin">Acts 21.13, 14.</note> 
+               <hi>yet ſaid, The will of the Lord be done. Jacob</hi> doted too much upon his <hi>Joſeph,</hi> and his affections were too ſtrong for his Judgment, when upon the ſight of the bloody coat, he refuſed to be comforted,<note place="margin">Gen. 37.33, 34, 35.</note> 
+               <hi>and ſaid, I will go down into the grave unto my ſon, mourning.</hi> And <hi>David</hi> was too fond of his <hi>Abſalom,</hi> when like a puny-baby, he wept and ſaid, <hi>O my ſon</hi> Abſa<g ref="char:EOLhyphen"/>lom! <hi>my ſon,</hi>
+               <note place="margin">2 Sam. 18.33, 2.</note> 
+               <hi>my ſon</hi> Ab<g ref="char:EOLhyphen"/>ſalom! <hi>would God I had died for thee, O</hi> Abſalom <hi>my ſon, my ſon.</hi> The <hi>Egyptians</hi> mourn<g ref="char:EOLhyphen"/>ed for <hi>Jacob 70</hi> dayes, but <hi>Joſeph</hi> (though he had more cauſe) mourned but <hi>7</hi> dayes; becauſe he had more grace, and better hopes of <hi>Jacob's</hi> eternal welfare, then the <hi>Infidels</hi> had. In the midſt of all your tears, keep up the exerciſe of grace, and
+<pb facs="tcp:119614:8"/>then you ſhall not mourn, that you have mourned.</p>
+            <p>That your own is no ſooner in your hand, is onely from the remiſneſs and delatorineſs of him into whoſe hands you had ordered the Coppy.</p>
+            <p>To conclude; That you and I, and all others (into whoſe hands this Sermon may fall) may live up, and live out, the follow<g ref="char:EOLhyphen"/>ing diſcourſe, under all the changes that has or ſhall paſs upon us, is the earneſt deſire and hearty prayer of him who is your entire friend and ſervant in our deareſt Lord,</p>
+            <closer>
+               <signed>Tho. Brooks.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119614:9"/>
+            <pb n="1" facs="tcp:119614:9"/>
+            <head>THE Silent Soul, UNDER Soreſt Tryals.</head>
+            <epigraph>
+               <bibl>The tenth Chapter of the book of <hi>Le<g ref="char:EOLhyphen"/>viticus,</hi> the laſt clauſe of the third verſe.</bibl>
+               <q>And <hi>Aaron</hi> held his peace.</q>
+            </epigraph>
+            <p>THeſe word's they are a hint to us of the holy Carriage of <hi>Aaron,</hi> under the hand of God. The Lord had laid upon him an affliction very ſad;
+<pb n="2" facs="tcp:119614:10"/>but the Lord gave him a carriage very ſweet and ſutable to it: I think I may ſay, God ſpake to <hi>Aaron</hi> bitterly, but <hi>He made</hi> no reply at all: Nay, the Text ſaith, Aaron <hi>held his peace.</hi> I ſhall ſhall make no other preface: Three things you may conſider in the verſe.</p>
+            <list>
+               <item>1. <hi>The perſon,</hi> which was <hi>Aaron,</hi> the <hi>Lord</hi>'s Miniſter. But remember this, by the way, that <hi>Aaron</hi> muſt be look't upon <hi>not as a Miniſter, but as a Saint,</hi> ſo that what he did, we muſt all do.</item>
+               <item>2. <hi>The action,</hi> which was this, He <hi>held his peace.</hi>
+               </item>
+               <item>3. <hi>The occaſion,</hi> which is contain'd in the former part of the verſe, <hi>And,</hi> which you may tranſlate, <hi>Then.</hi> And truly the occaſion is that which gives moſt light to the action. <hi>Aaron</hi> had loſt two Children at one blow, and God told him, He would be ſanctified, He would be glorified; <hi>Aaron,</hi> upon this meſſage, and upon this occaſion, layeth his mouth in the duſt, <hi>and held
+<pb n="3" facs="tcp:119614:10"/>his peace.</hi> So that there is this plain Point ariſeth from the words.</item>
+            </list>
+            <p>Doct. <hi>That under the ſaddeſt afflicti<g ref="char:EOLhyphen"/>ons that can befall us, we muſt hold our peace;</hi> or thus, <hi>It's the duty of the Lord</hi>'s <hi>people, whatever He doth to them, to be ſilent<g ref="char:punc">▪</g> Aaron</hi> held his peace: Afflictions are of two ſorts, <hi>ſpiritual and temporal:</hi> Tem<g ref="char:EOLhyphen"/>poral likewiſe are of two ſorts <hi>publick</hi> &amp; <hi>private,</hi> Now this was no <hi>ſpiritual</hi> affli<g ref="char:EOLhyphen"/>ction, but rather <hi>temporal.</hi> And it had in it ſomething of a publick nature, but as to <hi>Aaron</hi> more of a private. And truly as to a private temporal affliction this of <hi>Aarons</hi> was very heavy. You all know that, <hi>As Children are ſometimes great Comforts: So, often times ſad af<g ref="char:EOLhyphen"/>flictions.</hi> The ſin of our Children's lifes, and the ſuddenneſſe of our Chil<g ref="char:EOLhyphen"/>dren's deaths make ſore afflictions. <hi>Aaron</hi> might at preſent reflect upon both, and that reflexion (no doubt) was his affliction: But although he was troubled, yet he carryed it wiſely
+<pb n="4" facs="tcp:119614:11"/>and well; He covers his ſadneſſe with ſilence. His <hi>practiſe</hi> is our Pattern, upon it I build my Point: And 'pray now mind it, <hi>Let the dealings of Gods provi<g ref="char:EOLhyphen"/>dence be never ſo ſad, we muſt be ſilent,</hi> we muſt hold our peace. What <hi>Aaron</hi> did now, <hi>David</hi> did afterwards in <hi>Pſal.</hi> 39.9. <hi>I was dumb, I opened not my mouth, becauſe thou didſt it.</hi> This there<g ref="char:EOLhyphen"/>fore I would ſtand upon (and oh, that God would ſtrengthen me to ſpeak it to you!) That it is our <hi>great duty under the ſaddeſt providences, to hold our peace.</hi> I ſhall onely ſpeak one word of cauti<g ref="char:EOLhyphen"/>on to prevent a miſtake about the Point, and ſo go on. And the <hi>Caution</hi> is but this. I am not now ſpeaking <hi>of all our duties</hi> that are incumbent upon us, in the day of adverſity, in the hour of afflictions; no (my Brethren), there are many duties beſides this: when the Lord affl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct's, there are many du<g ref="char:EOLhyphen"/>ties to be done. Indeed here are two duties, that I find are to be done in this
+<pb n="5" facs="tcp:119614:11"/>Chapter, in our afflictions, and, in a deſire &amp; endeavour to do theſe duties, by the light and ſtrength of the Lord in this Scripture, am I this day pre<g ref="char:EOLhyphen"/>ſent (which otherwiſe I had not been) to Preach unto you. For I find, it was <hi>Aarons</hi> duty in his affliction to do his work, and to be ſubmiſſively ſilent be<g ref="char:EOLhyphen"/>fore the Lord. Theſe are the duties I meet with here, as I ſaid in this Chap<g ref="char:EOLhyphen"/>ter, the one in the Text, the other in the 12. <hi>ver.</hi> where it is ſaid; <hi>and</hi> Moſes <hi>ſpake unto</hi> Aaron, <hi>and to</hi> Eleazar, <hi>and unto</hi> Ithamar <hi>his ſons that were left, Take the meat-offering that remaineth of the offering of the Lord made by fire, and eat it without leaven beſides the Altar, for it is moſt holy.</hi> The meaning of it, is, They are dead, but <hi>go thou about thy work,</hi> do not keep off from the Lord's ſervice, do not let God loſe that which thou oweſt to him. This is a great duty indeed, for us to go about the work of God in our place, whether
+<pb n="6" facs="tcp:119614:12"/>Miniſter or Magiſtrate, or other. It's our fault and folly; under our afflicti<g ref="char:EOLhyphen"/>on we are apt, Child-like, to lye down and cry. Joſhua <hi>lay upon his face, when he ought to have been up, and doing his buſineſſe,</hi> Joſh. 7.10. O Sirs! what<g ref="char:EOLhyphen"/>ever God layes upon us, let not us lay aſide our duty. <hi>Let us ſtrive to do while we ſuffer:</hi> Caſt not off any duty that God requries, and which our place calls for, even under the greateſt affliction. This is one maine peece of Satans poli<g ref="char:EOLhyphen"/>cy, by affliction to make us caſt off du<g ref="char:EOLhyphen"/>ty: But certainly we muſt not ſay as it is, <hi>Verily, I have cleanſed my heart in vain, &amp; waſhed my hands in innocency, for all the day long I have been plagued, and chaſtned or (as it is in the Hebrew), my chaſtiſe<g ref="char:EOLhyphen"/>ment was every morning,</hi> Pſal. 73.13; 14. No, we muſt not entertain ſuch thoughts. But whatever affliction the Lord brings, morning or evening; we muſt do our work all the day long. That, beſides others, is a great part of
+<pb n="7" facs="tcp:119614:12"/>our duty in the day of adverſity. But I ſhall ſpeak to this in the Text. Two things I would do: Firſt,
+<list>
+                  <item>1. Shew you <hi>wherein this duty lyeth,</hi> what it is to be ſilent, and to hold our peace under ſad providences: And,</item>
+                  <item>2. Why <hi>this is ſo</hi> great a duty? For the firſt, what's <hi>this ſilence?</hi> what's this holding our peace? We have, menti<g ref="char:EOLhyphen"/>on'd in the Scripture, a two fold ſilence: the Phraſe is uſed in a <hi>bad</hi> ſenſe, &amp; in a <hi>good</hi> ſenſe, there <hi>is a ſinful,</hi> and there is an <hi>obediential</hi> ſilence. There is a ſinful ſi<g ref="char:EOLhyphen"/>lence, and a ſinful holding the peace, which is not our duty but ſin, and ſo is not required of us; and this is four-fold,
+<list>
+                        <item>1. <hi>A ſottiſh ſilence,</hi>
+                        </item>
+                        <item>2. <hi>A ſullen ſilence,</hi>
+                        </item>
+                        <item>3. <hi>A Stoical ſilence,</hi>
+                        </item>
+                        <item>4. <hi>A ſelf-ſoul ſecret af<g ref="char:EOLhyphen"/>flicting ſilence.</hi>
+                        </item>
+                     </list>
+But you, and I, muſt take heed of theſe: and therefore I will ſhew you the rock that you might not come near it.</item>
+               </list>
+            </p>
+            <p n="1">1. <hi>There is a ſottiſh ſilence.</hi> Some hold their peace, becauſe like fools they
+<pb n="8" facs="tcp:119614:13"/>know nothing, obſerve nothing, can do nothing; This doth not become the Lord's people, they ſhould be ſenſible, not ſottiſh. <hi>Jeremiah</hi> complaines of ſuch a ſottiſhueſſe in the 4. <hi>Chap.</hi> 22. <hi>verſ. For my people are fooliſh, they have not known me; they are ſottiſh Children, &amp; they have no underſtanding,</hi> &amp;c. What was this ſottiſh ſilence? will you look back to the 19. <hi>verſ.</hi> and that will open it, where ſaith <hi>Jeremiah, My bowels, my bowels, I am pained at the very heart, my heart maketh a noiſe within me; I can<g ref="char:EOLhyphen"/>not hold my peace, becauſe thou haſt heard, O my ſoul! the ſound of the Trumpet, the Alarme of Warr. Jeremiah</hi> obſerved God, he ſaw a Storm, underſtood a Judgment, he was not ſottiſh, his bowels melted for it, but my people are ſottiſh, &amp;c. As if he ſhould fay, Though I am ſenſible, they are ſot<g ref="char:EOLhyphen"/>tiſh. There is a ſottiſh ſilence be<g ref="char:EOLhyphen"/>ware of that. If the Lord ſmite, be not as a Sott that ſees nothing; who therefore does not ſpeak, becauſe in<g ref="char:EOLhyphen"/>deed
+<pb n="9" facs="tcp:119614:13"/>he cannot: we muſt hold our peace not as <hi>dumb-men,</hi> but as <hi>duty-men.</hi> He is not wiſe nor dutiful that cannot ſpeak, and is therefore ſilent; But he is both, that can, but yet refraines. Sottiſh ſilence is a ſin, not a duty. But then there is,</p>
+            <p n="2">2. <hi>A ſullen ſilence.</hi> A ſilence that, as we ſay of ſome, they are <hi>dumb,</hi> becauſe they are <hi>dogged;</hi> they do not ſpeak, be<g ref="char:EOLhyphen"/>cauſe they are ſullen and will not ſpeak: That ſhould not be our frame, a ſullen ſilence when we refrain from <hi>good word's,</hi> that was <hi>David</hi>'s fault in the 2 verſe of the 39. Pſal. <hi>When he ſaid, I held my peace, even from good.</hi> We may ſay, The Lord hath given, and the Lord hath taken; and ſay, Lord what's my duty, &amp;c? But to ſay, as <hi>Jeremiah</hi> once ſaid in the 20. Chap. 8, 9: <hi>I'le ſpeak no more in his name,</hi> becauſe the people took on, at what he ſaid, that was a peece of his failing. And truly its a great fault under our affliction not to ſpeak at all; we may and muſt
+<pb n="10" facs="tcp:119614:14"/>ſpeak to God and Man: To God in duty; to man both to ask advice, and to open our caſe for counſel and com<g ref="char:EOLhyphen"/>fort. He that holds his peace as ſullen and dogged, ſinneth, and this ſilence is to be avoided. I preſſe it not upon you. Nay, I adviſe you againſt it: But,</p>
+            <p n="3">3. There is <hi>a Stoical Silence.</hi> Schol<g ref="char:EOLhyphen"/>lars know, what was the opinion of the Stoick's. They were ſilent; ſhall I ſay out of a high humour, it was an hu<g ref="char:EOLhyphen"/>mour, an earthly humour; they muſt mind nothing. I do not think it a good ſpeech of that Heathen, who when he heard of the death of his Child, ſaid<g ref="char:punc">▪</g> I begat him mortal. No my Brethren, God hath given us affections, that we might make uſe of them, for he hath made nothing in vain, we may mourn<g ref="char:punc">▪</g> we may weep, we may be ſenſible of the hand of God. There are a compa<g ref="char:EOLhyphen"/>ny of poor Creatures amongſt us (you call them Quakers) that are much in<g ref="char:EOLhyphen"/>fected with <hi>Stoiciſm;</hi> moſt of ther
+<pb n="11" facs="tcp:119614:14"/>principles, and much of their practiſe is but a reviving of what ſome Philo<g ref="char:EOLhyphen"/>phers counted their glory long ago. But truly, it is the ſhame of Chriſtians to turn <hi>Stoicks,</hi> I may ſay <hi>Stocks:</hi> To mind nothing, be affected with, or for nothing, is a ſhame, and not a glory. I therefore reckon that, as a ſinful ſi<g ref="char:EOLhyphen"/>lence. The Stoicks ſilence, is the Saints ſhame; <hi>Aarons</hi> was, and ours muſt be of a higher, a holier nature. But to paſſe on.</p>
+            <p n="4">4. <hi>There is a ſecret ſoul-afflicting ſilence.</hi> There are deep ſouls that run like <hi>deep water's,</hi> they make no noiſe, they are very ſilent. I am apt to think it was <hi>He<g ref="char:EOLhyphen"/>zekiah</hi>'s failing, when he ſaid, He hath done it, I ſhall go <hi>ſoftly</hi> all my years in the bitterneſſe of my ſoul, <hi>Iſa.</hi> 38.15. It was well, he eyed God; but, to ſay, he <hi>would go ſoftly,</hi> that is, he would bleed within, and not open the wound, was his failing. I know that ſpeech: <hi>Ille dolet verè, qui ſine teſte dolet,</hi> Secret
+<pb n="12" facs="tcp:119614:15"/>ſilent ſorrow is trueſt, but not beſt: It is ſorrow with a witneſſe (as we ſay), becauſe without a witneſſe. To mourn in a corner ſilently, to weep, and not to word it: To let Grief ſwal<g ref="char:EOLhyphen"/>low up Language; and not to ſpeak but to be drowned, and ſilent in a depth of grief, this is an evil ſilence. The Lord keep you and me from it: I do mention it (as the other three) to be a voided, not to be practiſed. <hi>Aaron</hi> was not, we muſt not, in any of theſe ſen<g ref="char:EOLhyphen"/>ſes be ſilent: for this ſilence is an evil; and therefore noted, that it may be avoided. Well, this is the firſt ſilence, and this ſinful holding our peace, is not our duty under any hand of God. But Secondly,</p>
+            <p n="2">2. <hi>There is an obediential ſilence,</hi> a ſilence that is <hi>founded in wiſdome, and manag'd with reverence,</hi> and this ſilence is our duty. It is ſaid of <hi>Saul</hi> when the <hi>Children of Belial</hi> flouted him, <hi>he held his peace,</hi> in the 1 <hi>Sam.</hi> 10. <hi>ult.</hi> that
+<pb n="13" facs="tcp:119614:15"/>was a ſilence of wiſdom. And in the 13. <hi>Job.</hi> 5. ſaith <hi>Job</hi> to his friends, <hi>O that you would altogether hold your peace, and it ſhould be your wiſdom.</hi> My Brethren, ſuch a holding our peace as is our wiſdom, that's our duty indeed under every providence, <hi>a wiſdom-ſilence, a re<g ref="char:EOLhyphen"/>verential ſilence. Job</hi> ſpeaks of this in 29. Chap. 9, 10. where ſaith he, <hi>The Princes refrained talking, and laid their hands on their mouth; the Nobles held their peace, and their tongue cleaved to the roof of their mouth;</hi> that is, out of reverence. And what ſaith the Prophet in the 2. <hi>Zech. ult. Be ſilent O all fleſh before the Lord.</hi> Saith God to <hi>Moſes,</hi> I'le be ſanctified, I'le be glorified: And, <hi>Aa<g ref="char:EOLhyphen"/>ron held his peace;</hi> but wherein doth that lye? I'le open that but in three words. An obedientiall ſilence, or holding our peace, doth eminently lye in 3 particulars.</p>
+            <list>
+               <item>1. <hi>It is a Soul-quieting ſilence.</hi> I think, ſo that phraſe is to be underſtood
+<pb n="14" facs="tcp:119614:16"/>in the 2 <hi>Kings</hi> 2.3. where it is ſaid, The sons of the Prophets which were at <hi>Bethel</hi> came forth to <hi>Eliſha,</hi> and ſaid to him, <hi>Knoweſt thou that the Lord will take away thy Maſter from thy head to day,</hi> and he ſaid, <hi>yea, I know it, hold your peace.</hi> As if they ſhould ſay in our Language, <hi>Do you know that the Prophet will dy to day?</hi> Do you know your Wife, your Child, your Husband, will dy to day? <hi>Hold your peace</hi> ſaith the Prophet, as if he ſhould ſay, Be not diſtracted. O my Brethren, <hi>We are ready to take on, like frantick people,</hi> but here's our duty <hi>to hold our peace.</hi> You know the ſtory of <hi>Ammon</hi> and <hi>Tamar</hi> in 2 <hi>Sam.</hi> 13.20. where, ſaith <hi>Abſolom</hi> to <hi>Tamar,</hi> Hath <hi>Ammon</hi> thy brother been with thee? but <hi>hold now thy peace my Siſter; he is thy Brother, regard not this thing.</hi> It is in the Hebrew, <hi>do not fix thy heart:</hi> the meaning is, Siſter it is a ſad thing, <hi>but hold thy peace;</hi> do not diſtract thy Soul, do not ſet thine heart upon this thing.
+<pb n="15" facs="tcp:119614:16"/>Such a ſilence as to quiet our Spirits, not to torment our ſouls, that is our duty. This ſilence is the Soul's quiet, in it the heart reſts, not tormenting its ſelf with tumultuous thoughts, nor foam<g ref="char:EOLhyphen"/>ing forth tempeſtuous words: certain<g ref="char:EOLhyphen"/>ly Chriſtians ſhould in quietneſſe poſ<g ref="char:EOLhyphen"/>ſeſſe their Souls with patience. A pa<g ref="char:EOLhyphen"/>tient Soul-quieting ſilence, is both commanded and commended: So to be ſilent, as not to ſtirr to our diſtraction, but in our ſilence to quiet our Spirits, is our duty, and therefore I mention it. <hi>Aaron</hi> was thus ſilent, his chil<g ref="char:EOLhyphen"/>drens death was not his diſtraction. But this is not all; For I add,</item>
+               <item>2. There is <hi>a ſincere ſubmitting Si<g ref="char:EOLhyphen"/>lence.</hi> Silence (you know) is conſent, and to hold one's peace is a great phraſe in Scripture, to conſent to what is done; you have it twice in one Chapter, in <hi>Numb.</hi> 30.4, 12. And ſurely my Brethren, this is our duty, ſuch a hold<g ref="char:EOLhyphen"/>ing our peace, <hi>ſuch a Silence which giv<g ref="char:EOLhyphen"/>eth
+<pb n="16" facs="tcp:119614:17"/>our conſent to what God doth, is an o<g ref="char:EOLhyphen"/>bedientiall one.</hi> Unto me (ſaith <hi>Job</hi> 29.21.) men gave ear, and waited, and <hi>kept ſilence at my Counſell; Job</hi> was ac<g ref="char:EOLhyphen"/>counted a wiſe man, and what he did, they did, <hi>viz. held their peace,</hi> and <hi>gave their conſent:</hi> and that's our duty, God is a wiſe God, when he ſtrikes or ſpeaks we muſt <hi>hold our peace,</hi> at leaſt our ſi<g ref="char:EOLhyphen"/>lence ſhould be ſo ſubmiſſive, as not to wrangle. You have a phraſe in <hi>Tit.</hi> 2 9. It is ſpoken to Servants, that they ſhould be obedient, <hi>not an<g ref="char:EOLhyphen"/>ſwering again.</hi> You account it a fault if your Servants grumble; O what a great fault is it in us, when a God ſmites, for us to grumble. Without doubt ſilence in this ſenſe is a great part of our duty in affliction: Thereby we ſhew we conſent to what the Lord dorh. Will God take? By ſilence, give conſent: Doth God by providence ſay I'le have that Child, that Creature, that Relation? Oh! let us by ſilence
+<pb n="17" facs="tcp:119614:17"/>declare our aſſent and conſent to what the Lord doth, <hi>Our ſilent ſuffering is an yielding to the Lord's doing,</hi> and 'tis our duty ſo to do. But laſtly,</item>
+               <item>3. There is <hi>a ſtudying ſilence.</hi> A great Schollar was wont to ſay, when he would ſtudy ſuch a thing, <hi>I muſt be ſilent.</hi> In our ſtudies, we don't uſe to talk; a man cannot ſtudy and talk: therefore one of the firſt Leſſons <hi>Pytha<g ref="char:EOLhyphen"/>goras</hi> gave to his Schollars, was Si<g ref="char:EOLhyphen"/>lence. <hi>Affliction is a School:</hi> when the Lord brings an Affliction upon us, and puts us into that School, we muſt be ſi<g ref="char:EOLhyphen"/>lent as Scholars, if ever we intend to learn. And thus I think the ſpeech of <hi>Elihu</hi> to <hi>Job</hi> is to be underſtood <hi>Cap.</hi> 33. <hi>ult. Hearken unto me, and hold thy peace, and I ſhall teach thee wiſdom.</hi> You know what the Scripture ſaith elſewhere, in <hi>Pſal.</hi> 94. <hi>verſ.</hi> 12. Bleſſed is the man whom thou Lord chaſtens; and teach<g ref="char:EOLhyphen"/>eſt him out of thy Law. Would you learn? How will you learn unleſs you
+<pb n="18" facs="tcp:119614:18"/>be ſilent: we muſt be ſilent to ſtudy to underſtand the Lord's mind. Thus you ſee what the duty is; wherein eſ<g ref="char:EOLhyphen"/>pecially this obediential ſilence lyeth: In the day of affliction we muſt be ſi<g ref="char:EOLhyphen"/>lent. But how? <hi>Not as Sotts,</hi> or <hi>ſullen Stoicks,</hi> not <hi>as thoſe</hi> that are <hi>ſilent, mour<g ref="char:EOLhyphen"/>ning in the Grave.</hi> No, but conſider: Truly, in <hi>the day of adverſity we muſt con<g ref="char:EOLhyphen"/>ſider,</hi> (as it is <hi>Eccleſ.</hi> 7.14.) And a<g ref="char:EOLhyphen"/>mongſt many things we muſt conſider How to hold our peace; how to be ſi<g ref="char:EOLhyphen"/>lent, <hi>ſo as not to diſtract our Souls;</hi> nor <hi>to grumble againſt God;</hi> nor <hi>to hinder our learning in the affliction:</hi> So <hi>to be ſilent as to compoſe our ſpirits, and conſent to the Lord's dealings, and ſo as to ſtudy to hear the Rod, and who hath appoynted it, to learn our leſſon in the ſchool of affliction:</hi> This is our duty, and thus did <hi>Aaron</hi> here. I have now opened the point and our practice, What it muſt be. Let me now inforce and eſtabliſh it by Arguments, Why this muſt be. To come to it:</item>
+            </list>
+            <pb n="19" facs="tcp:119614:18"/>
+            <p n="2">2. Why muſt this be? I ſhall give you the reaſons of the Point very briefly: My beloved, <hi>though the Lord might deal with you and me, upon term's of ſupream Majeſty, and bid us do a thing without a reaſon; yet God bath laid no com<g ref="char:EOLhyphen"/>mand's, but there's the higheſt Reaſon for them.</hi> I'le offer you three head's of reaſon, why this is our duty, let the providence be never ſo ſharp. If we do but ſoberly conſider a little with our ſelves, even under the ſaddeſt pro<g ref="char:EOLhyphen"/>vidence,</p>
+            <p>Either
+<list>
+                  <item>1. God, or</item>
+                  <item>2. Our ſelves, or</item>
+                  <item>3. Saran;</item>
+               </list>
+we may from each of theſe particu<g ref="char:EOLhyphen"/>lars ſee, and be ſatisfied in the ground of this duty of ſilence. I ſhall be ſhort in opening; but do you conſider it by your ſelves, more at large.</p>
+            <p n="1">1. <hi>Conſider God.</hi> Saies <hi>David</hi> in Pſal. 29.9. <hi>I held my peace, becauſe 'twas Thou didſt it. He hath done it,</hi> what ſhall I
+<pb n="20" facs="tcp:119614:19"/>ſay? was <hi>Hezekiah</hi>'s ſaying. Affliction doth not ariſe out of the duſt. What<g ref="char:EOLhyphen"/>ever befalls thee, let the Tool be what it will, it'; God that ſtrikes. Truly, my brethren, this is a large head of reaſon; <hi>God doth it.</hi> Why, He may do whatſoever he will, both in heaven and earth. God doth it; He is wiſe and juſt, and holy, and honourable. God doth it, pointing at the ſupream diety, ſilences all: Let all fleſh be ſilent, be<g ref="char:EOLhyphen"/>fore the Lord. But I'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e carry the rea<g ref="char:EOLhyphen"/>ſon onely upon one foot, and that is this, <hi>You cannot teſtifie your ſubjection to a God, if you be not ſilent at what he doth.</hi> You chaſtiſe your children, you will not have them prate and take on while you are chaſtiſing. Whenever God afflicts, he doth but chaſtiſe, and wilt thou reverence an earthly Father, and not reverence the Father of Spirits? Obſerve, how the Apoſtle carries on this argument, <hi>Heb.</hi> 12.9. Saith he, <hi>we have had Fathers of our fleſh, which
+<pb n="21" facs="tcp:119614:19"/>corrected us, &amp; we gave them reverence ſhal we not much rather be in ſubjection to the Father of Spirits, and live?</hi> A fine child, a ſweeet child, reverences a Parent; it ſpeak's quietly under every dealing. Do you deal thus with men, and will not you deal ſo with God? My bre<g ref="char:EOLhyphen"/>thren, I ſaid even now, that this is a <hi>reverential ſilence,</hi> and we can't ſhew our ſubjection unto God, if under eve<g ref="char:EOLhyphen"/>ry providence we be not ſilent. Veri<g ref="char:EOLhyphen"/>ly, our ſilence is our reverence: To take on and fret, to groan and grum<g ref="char:EOLhyphen"/>ble, <hi>to be as a wilde bull in the net</hi> (as the Scripture phraſe is) to roar and to bel<g ref="char:EOLhyphen"/>low; It is to diſhonour God. If we will acknowledge Him to be (as he is) a God, <hi>we muſt be ſtill,</hi> as it is, <hi>Pſal.</hi> 48. <hi>laſt.</hi> In the day of adverſity they do not conſider, but forget God who are not ſilent. Nay, men forget them<g ref="char:EOLhyphen"/>ſelves, who under affliction (in the ſenſe opened) do not hold their peace. For,</p>
+            <pb n="22" facs="tcp:119614:20"/>
+            <p n="2">2. Will you <hi>conſider yuur ſelves,</hi> and you will ſee there is reaſon you ſhould be ſilent. My brethren, <hi>Self-knowledge in moſt points hath abundance in it to carry us through all leſsons;</hi> if ye do not hold your peace, you will hurt your ſelv's. To be ſilent is good for Self, and ſelf-love is a good motive. You will ſay, What good is it for me to be ſilent, it is an caſe to take on? I an<g ref="char:EOLhyphen"/>ſwer, that which is eaſie, is not al<g ref="char:EOLhyphen"/>wayes beſt.</p>
+            <p n="1">1. For firſt, If <hi>you be not ſilent, you will never exerciſe any grace:</hi> If a man's hand ſhake, he will not write well; when the man talk's, he can't ſtudy well: So, except we be ſilent, we can<g ref="char:EOLhyphen"/>not ſhew any grace, no grace of faith, no grace of patience, no grace of hu<g ref="char:EOLhyphen"/>mility. All theſe graces are exerciſed, and appear eminently in an obedienti<g ref="char:EOLhyphen"/>al ſilence. He that believeth, ſpeaks not much: He that is patient holds his peace: And the humble ſoul in eve<g ref="char:EOLhyphen"/>ry
+<pb n="23" facs="tcp:119614:20"/>affliction lies in the duſt, ſubmiſſively ſilent. You forget your ſelves (Oh Saints!) as to the exerciſe of theſe graces, if, with <hi>Aaron,</hi> you do not hold your peace. Beſides conſider,</p>
+            <p n="2">2. <hi>If you ſpeak, you will ſin,</hi> and will you afflict your ſelves by ſpeaking. Now, my brethren, mark it; Under affliction we are apt to ſpeak more ſinfully, and God obſerves it. You have a great evi<g ref="char:EOLhyphen"/>dence of a good man, who in the way of his affliction ſpake ſinfully, and the Lord took notice of it, in <hi>Jer.</hi> 45.3. <hi>Thou didſt ſay, wo is me now; for the Lord hath added grief to my ſorrow, I fainted in my ſighing, and I find no reſt;</hi> here is the paſſionate ſpeech of a man under affli<g ref="char:EOLhyphen"/>ction. I remember a very fine obſer<g ref="char:EOLhyphen"/>vation of Dr. <hi>Stoughton</hi> long ago from this very paſſage: ſaith he, It is very <hi>facile,</hi> very eaſy, but not free to offend in word's. <hi>Thou didſt ſay,</hi> (ſaith the Lord to <hi>Baruch</hi>). We are apt to ſay, and forget what we ſay in ſorrow: But
+<pb n="24" facs="tcp:119614:21"/>ſaith God, <hi>Thou didſt ſay</hi> thus or thus. The Lord minds our ſinful ſad words. It is good therefore to hold our peace; mark that: <hi>Thou didſt ſay,</hi> &amp;c. Oh ſoul! the Lord obſerves all our words, in a day of affliction; and becauſe we are apt to forget our ſelves, to ſpeak ſin in a paſſion, certainly, if we conſider our ſelves, we ſhall hold our peace. Mind what <hi>David</hi> ſaies, I ſaid, <hi>I'le take heed to my wayes, that I ſin not with my tongue,</hi> Pſal. 39.1. If you conſider your ſelves you'l be ſilent: for if you ſpeak much in the multitude of ſpeech, there will be ſin; and that is to be avoided, eſpeci<g ref="char:EOLhyphen"/>ally under ſuffering. But,</p>
+            <p n="3">3. <hi>You will but increaſe your trouble,</hi> at leaſt you will not decreaſe it that way. Sorrow hath bin compared to a great <hi>flood,</hi> and if you draw up the <hi>hatch</hi> it will run. Unleſſe we hold our peace, ſubmit, we ſhall but encreaſe our ſorrowes; at leaſt there is but little hope to decreaſe it. In <hi>Lam.</hi> 3.27,
+<pb n="25" facs="tcp:119614:21"/>28, 29. you have a great ſpeech, and a good ſpeech: Saies he. <hi>It is good for a man to bear the Yoke in his youth.</hi> If God will put it on, do you bear it, Why ſo? <hi>he putteth his mouth in the duſt, if ſo be there may be hope.</hi> My brethren, there is hope, the parent will give over when the child is ſilent; and there is hope a God will forbear, if we hold our peace. But thirdly,</p>
+            <p n="3">3. You have reaſon to be ſilent, if you <hi>conſider Sathan.</hi> Sathan your adver<g ref="char:EOLhyphen"/>ſary goes alwayes about; Nay, I had almoſt ſaid, he is never more buſy, then when we are under ſome ſad diſ<g ref="char:EOLhyphen"/>penſation; buſy to watch you, that he might accuſe you; buſy to watch you, that he may tempt you; buſy to watch you, that he may diſgrace Religion for your ſake. If you overrun the bound's, he will accuſe you of immoderate <hi>ſor<g ref="char:EOLhyphen"/>row.</hi> And if <hi>Aaron</hi> ſhall misbehave himſelf in ſadneſſe, Satan will miſim<g ref="char:EOLhyphen"/>prove that misbehaviour to diſgrace
+<pb n="26" facs="tcp:119614:22"/>his place and profeſſion. Did but Chriſtians conſider, how Satan watch<g ref="char:EOLhyphen"/>eth their words in a day of affliction, they would be wary what they ſay; and for Satans ſake they would be ſi<g ref="char:EOLhyphen"/>lent. But I ſhall not inlarge this, nor add any thing more by way of reaſon. <hi>We</hi> ſhall make ſome <hi>Uſe of</hi> this Point.<label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>
+               </label> Indeed the Point is large, but I'le only ſatisfie my ſelf with one Uſe, and that is <hi>to preſſe upon mine own heart and your's, under all providences, this example</hi> to hold our peace: Truly my brethren, ſilence is ſtill a great gift. The <hi>Rabbins</hi> have a proverb, that <hi>If ſpeech be ſilver, ſilence is gold.</hi> And this I'le tell you from a better Author than the <hi>Rabbins, If in all conditions you look not to your tongue, you have no Religion,</hi> Jam. 1.26. Well therefore I would preſſe it upon you, <hi>whatever the Lord hath done, or whatever the Lord ſhall do publik or private, Be ſi<g ref="char:EOLhyphen"/>lent before the Lord, hold your peace,</hi> I
+<pb n="27" facs="tcp:119614:22"/>would preſſe that which I have to ſay under a few particulars.</p>
+            <list>
+               <item>1. Firſt I would anſwer a few Ob<g ref="char:EOLhyphen"/>jections, that the ſoul may make againſt this.</item>
+               <item>2. Give you a few ſpecial Cauti<g ref="char:EOLhyphen"/>ons. And,</item>
+               <item>3. I would give in a few Directions. For the firſt, Do not think, thou haſt occaſion to ſpeak. Whatever you ob<g ref="char:EOLhyphen"/>ject, there is enough to ſilence you. <hi>Aaron</hi> might have ſpoke more, than, through mercy, I hope any of us: His ſon's were cut off both at once. Shall I anſwer a few objections in mine own heart, it may be they may be in your's? Why?</item>
+            </list>
+            <p n="1">1. Object. But the <hi>Lord hath af<g ref="char:EOLhyphen"/>flicted me ſo grievouſly,</hi> that I cannot hold my peace. For, ſaith the ſoul, He hath taken away the beſt thing I have, and that's a great thing: I had a <hi>poſie</hi> in my hand, a <hi>noſe-gay</hi> of flow<g ref="char:EOLhyphen"/>er's, and the Lord came and ſnatch't
+<pb n="28" facs="tcp:119614:23"/>away the <hi>beſt of my</hi> flower's, and ſhall I not ſpeak? I anſwer, Who ſhould have the beſt, if not God? Would you ſay to any friend that ſhould come into your Garden, Here are flowers, take any of theſe, but do not take the beſt? O my brethren, though God lay never ſo ſharp an affliction upon you, and take away the very beſt; yet remember this, that the beſt God may have the beſt. The beſt child among all, the beſt thing which is in your keeping, if God take it away. Do not grutch God the beſt, for whom nothing is good enough. If the Lord take the Jewel out of the Ring, remember, God is moſt precious: And beſt is for beſt. Hold thy peace.</p>
+            <p n="2">2. Object. I but, ſaith he, <hi>the afflicti<g ref="char:EOLhyphen"/>on comes into my ſoul,</hi> and can I be ſilent under a ſoul-affliction? Alas, the dag<g ref="char:EOLhyphen"/>ger that ſmote the Creature, is now come into my ſoul. Mark ye, Is it not ſaid, <hi>The Irons went into the ſoul of</hi>
+               <pb n="29" facs="tcp:119614:23"/>Joſeph? I anſwer, God ſmites thy ſoul now, that he may not ſmite thee in hell hereafter. O therefore be ſilent! God doth chaſtiſe thy ſoul now, that he may not condemn thy ſoul hereaf<g ref="char:EOLhyphen"/>ter. And, haſt not thou then reaſon to hold thy peace? But,</p>
+            <p n="3">3. <hi>Object.</hi> Alas, I muſt ſpeak, I muſt cry out of my own fear; <hi>I have not done my duty,</hi> and God puniſhes me for failing therein. Had I done my duty, in ſuch a caſe, for ſuch a child, ſuch a relati<g ref="char:EOLhyphen"/>on, I could be ſilent. But I have ſin<g ref="char:EOLhyphen"/>ned, &amp;c. I anſwer, If <hi>thou haſt neg<g ref="char:EOLhyphen"/>lected one duty, wilt thou neglect another?</hi> Thou haſt failed in thy carriage to that relation, and this condition, and there God ſmites thee: Becauſe thou haſt ſinned once, wilt thou ſin again?</p>
+            <p n="4">4. <hi>Object.</hi> But wo is me, I muſt ſpeak, I have reaſon to ſpeak, I cannot hold my peace. Why? <hi>In my affliction God is gone,</hi> God is clouded, God is departed, and ſhall I not ſpeak then?
+<pb n="30" facs="tcp:119614:24"/>
+               <hi>Anſw.</hi> O beloved of the Lord! what ſaid Mr. <hi>Burrows</hi> to this, If God be gone a little, wilt thou drive him farther? If God be departed a little, wilt thou make him depart more? Doth mur<g ref="char:EOLhyphen"/>muring, doth repining, doth a paſſio<g ref="char:EOLhyphen"/>nate taking on, bring God nearer to you? You will never help your ſelves under the fear of God's departing, by your taking on; you had better hold your peace; God will be in the ſtill voyce. You may ſee by this, whatever you can object, there may be abundantly ſaid to ſilence your Objections. Therefore I ſay, In all afflictions <hi>hold your peace.</hi> Secondly, I would preſſe it on in a way of Caution. And I beſeech you take heed what you ſay in the day of affliction; let the affliction be what it will, take heed what you ſay. May not I ſay any thing, ſaith the ſoul? I did not ſay ſo: You may ſpeak, but not ſin<g ref="char:EOLhyphen"/>fully; you may ſay as <hi>Job, The Lord gave, and the Lord hath taken away, Bleſs<g ref="char:EOLhyphen"/>ed
+<pb n="31" facs="tcp:119614:24"/>be the name of the Lord,</hi> Job. 1.22. you may ſay, God gave me ſuch a Creature, ſuch a Relation, he hath lent him me many a year, and now he hath taken him away; I bleſſe God, he lent him me ſo long. Such ſpeeches you may uſe; they are not ſpoke againſt. But 'tis ſuch a Speaking as is inobedientiall, which I caution againſt. I ſaid, it was a fault to refraine from good ſpeech; it was ſullen ſilence. Therefore I deny not all ſpeech: Only, whatever you ſay, take heed of ſinful ſpeech. And beſides others at preſent, what ever words you uſe, My brethren, there are but four things I would caution you againſt. Firſt,</p>
+            <list>
+               <item>1. Whatever you ſay, <hi>be ſure you do not charge God fooliſhly,</hi> whatever thou ſpeak'ſt do not write Folly upon the hand of God. It is ſaid in <hi>Job</hi> 1.22. <hi>In all this</hi> Iob <hi>ſinned not, nor charged God fooliſhly.</hi> We charge God fooliſh<g ref="char:EOLhyphen"/>ly, when we ſay, <hi>If God had done</hi> ſo, I
+<pb n="32" facs="tcp:119614:25"/>could have born it: Me thinks, if God had taken away that, I could have born it. This is to charge God fooliſh<g ref="char:EOLhyphen"/>ly, as if God did not know what he had to do. If God had lent it me a lit<g ref="char:EOLhyphen"/>tle longer, I ſhould have been well e<g ref="char:EOLhyphen"/>nough, this is to charge God fooliſh<g ref="char:EOLhyphen"/>ly. I have heard one ſay, Any loſs but ſuch a one! Another, Had I been af<g ref="char:EOLhyphen"/>flicted in any thing but this! A third, In caſe my tryall had been ſo, I ſhould not have miſliked it: Many ſuch ſpee<g ref="char:EOLhyphen"/>ches there are, but I pray beware of them. Doth not the wiſe God do all? And is not infinite wiſdom found in e<g ref="char:EOLhyphen"/>very divine action? Providence in all things is underſtanding; Oh, avoid theſe ſpeeches, which charge the moſt Wiſe with fooliſhneſs.</item>
+               <item>2. Be ſure thou <hi>do not ſay, God could not afflict me worſe.</hi> O we are apt to cry out, The Lord could never have af<g ref="char:EOLhyphen"/>flicted me worſe, O beware how you ſpeak ſo; What ſaith <hi>David, Pſal.</hi> 90.11.
+<pb n="33" facs="tcp:119614:25"/>
+                  <hi>Who knoweth the power of thine anger?</hi> You do not know my Brethren how a God can ſtrike: Some have ſaid, God could never have afflicted me worſe: but, in a very few years, he hath given them ſuch an affliction, which hath been far worſe. Beware how you provoke God to ſtrike ſorer, whil'ſt thou ſayſt, God could not afflict thee worſe. Thou provokeſt the Lord, to ſilence and confute thy ſpeech by ſen<g ref="char:EOLhyphen"/>ding a ſharper affliction: and thou maiſt feel to thy ſorrow the folly of thy ſpeech. If God ſmite a ſecond time, thou wilt find he can afflict thee worſe than he hath done. But</item>
+               <item>3. Beware how you ſay, <hi>There is no affliction like to this.</hi> We are apt to be prating, and, as the ordinary phraſe is, Never any bodies affliction is as mine, beware of ſuch a ſpeech: Will you re<g ref="char:EOLhyphen"/>member this? It argues a proud heart for us to ſay, No body can be worſe than us; Is no bodies Jewel ſo rich as
+<pb n="34" facs="tcp:119614:26"/>thine, no bodies loſſe ſo great as thine? Thou overvalueſt thy ſelf, and under<g ref="char:EOLhyphen"/>valueſt others, &amp; thereby provok's God. He that ſaies, No body could loſe ſuch a child, ſuch a yoke-fellow, &amp;c. doth he not proclaim his pride, in thinking himſelf a None-ſuch? and in prefer<g ref="char:EOLhyphen"/>ring his things before and beyond all others. Take heed therefore of ſuch ſpeeches. Thou knoweſt thine own loſſes, not anothers. Never aggravate thy grief by pride, in over-valuing your own, and under-rating anothers loſſe. 'Tis a ſinfull ſpeech, No ſorrow like mine; you were better hold your peace. But then,</item>
+               <item>4 Beware how thou ſaiſt, <hi>You cannot bear it.</hi> Beloved, God loves not, that we ſhould return a <hi>Cannot.</hi> If thou ſaieſt, Thou canſt not, God will try thee. I cannot hold my peace: God will give thee two blows, to make thee hold thy peace. Do not ſay, I cannot, <hi>Non poſſe praetenditur, non velle in cauſa
+<pb n="35" facs="tcp:119614:26"/>eſt.</hi> It may be, you can but you will not, and God is purpoſed to compell you. Certainly, God is reſolved to make the whole World to bow; and if thy proud heart ſay, It cannot, God will ſay, I'le make thee; and better ſubmit to a little blow, then to make God to make us ſubmit by a greater. But,</item>
+            </list>
+            <p n="3">3 ly. I would give you a few direct<g ref="char:EOLhyphen"/>ions, and I ſhall conclude: The great Queſtion now is, How ſhall I do this? <hi>Aaron</hi> held his peace, but alas! I am not <hi>Aaron: David</hi> held his peace, but I am not <hi>David.</hi> Let me ſay but this word, <hi>You little know what you ſay, when you ſpeak ſo.</hi> I would not ſpeak to make you proud, but this I ſay, Goſpel diſ<g ref="char:EOLhyphen"/>penſations carry little Saints as high as <hi>David:</hi> Is it not ſaid, A little one ſhall be as <hi>David?</hi> Suppoſe we are leſſer Creatures, we have higher Hills to ſtand upon. But know, There are ſome things which <hi>David</hi> did not as a ſtrong Saint, but as a Saint: It is a
+<pb n="36" facs="tcp:119614:27"/>miſtake to think <hi>David</hi> is not to be imi<g ref="char:EOLhyphen"/>tated becauſe he was great. I told you, <hi>Aaron</hi> here, is not to be conſidered as a Miniſter, but as a Saint. There are ſome duties common to all. And this amongſt the reſt. You know, It is ſaid that <hi>David</hi> was a man of Prayer: I am no <hi>David:</hi> therefore ſhall not I pray? Yes. But, How ſhall I be able to come up to do as <hi>Aaron</hi> did, and as <hi>David</hi> did, To hold my peace? I'le give you but three heads of direction.</p>
+            <list>
+               <item>1. I pray, <hi>Before an afflicting providence com's, take heed that you do not make it to yourſelv's and others more afflicting than it would be:</hi> My beloved, before the ſad providence com's, you may do that which may make it worſe when it comes. As it is with ſick men, in a Feaver or Ague, men do that before the Fit comes, which makes it worſe when it comes. They eat and drink, do t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is and that, which, when the Feaver comes, or Ague comes, make's the Fit
+<pb n="37" facs="tcp:119614:27"/>more tedious, and worſe then it would be otherwiſe. So it is here: Before an affliction, we may do that which may make it more bitter, then elſe it would be. We do that often, which makes the afflictions of God the grea<g ref="char:EOLhyphen"/>ter. I have two heads in this, if you mark it,
+<list>
+                     <item>1. That it may not be the worſe for others,</item>
+                     <item>2. Nor for our ſelves.</item>
+                  </list>
+Do that under an affliction which, in regard of thy ſelf, may not make it worſe then it would be. I'le open it in an inſtance thus, Thou art it may be a Relation, a Husband, or a Wife, a Child, &amp;c. When ever God takes thee away, it will be a ſad buſineſſe to thy Relation which is left behind; Now live ſo, as when you die, you may not encreaſe the affliction of thy Yoak-fellow, or of thy Parent. I will put it to Husbands and to Chil<g ref="char:EOLhyphen"/>dren. Husbands, So carry it, that when ever God ſnatches you hence, your wives may know, you are in the Lord's
+<pb n="38" facs="tcp:119614:28"/>boſome. <hi>O ye little ones</hi> before the Lord, Live ſo, that if the Lord make your death an affliction to your Pa<g ref="char:EOLhyphen"/>rent's, it may not be ſo great as other<g ref="char:EOLhyphen"/>wiſe it would be; when the Parent can hope through grace, my Child lived ſo, that it is now with my God. It is not in the Father's boſome, but in <hi>Abraham</hi>'s boſome: this leſſens the affliction. You that are little ones, Live ſo, that if thy death be thy Parent's affliction, thy life may make it leſſe. And well I know, that nothing more ſilenceth a parent, or a yoke-fellow's ſpirit, under the loſs of Child or Husband; I ſay, nothing more ſilen<g ref="char:EOLhyphen"/>ceth, and quieteth the heart, then ſome good hopes that the Husband or Child is in heaven. So then as to others labour that way, to make the afflicti<g ref="char:EOLhyphen"/>on leſſe. And ſecondly, for your ſelves. Whatever affliction God may lay up<g ref="char:EOLhyphen"/>on you, beware that before hand, you do not make it worſe. A paſſionate ſpi<g ref="char:EOLhyphen"/>rit,
+<pb n="39" facs="tcp:119614:28"/>a proud heart makes an affliction very ſad when it comes. A paſſionate man, one given to paſſion, a little thing diſturbs him. A proud man before it comes, he cannot ſtoop to it when it comes. Live ſo, as whatever afflicti<g ref="char:EOLhyphen"/>on ſhall befall you, it may be leſſe then otherwiſe it would be.</item>
+               <item>2. <hi>Lay up ſomething before hand, that may ſilence you in the day of affliction:</hi> There are many things which will ſi<g ref="char:EOLhyphen"/>lence a ſoul, in the Language that I am ſpeaking of ſilence. There are ſweet thoughts which beger ſilence. I have not time nor ſtrength to open ſo many as I ſhould do. Lay up but two thoughts.
+<list>
+                     <item>1. Lay up this thought, that <hi>what<g ref="char:EOLhyphen"/>ever God doth, he will give you a good rea<g ref="char:EOLhyphen"/>ſon for it.</hi> You are in affliction, if need be: He doth not willingly afflict the Children of men. I pray, mind theſe two Scriptures, <hi>Lament.</hi> 3.33. and 1 <hi>Pet.</hi> 1.6. It may poſſibly be, we ſee
+<pb n="40" facs="tcp:119614:29"/>not the need; but there is a need for every affliction: and that's the reaſon why God ſends it. I pray remember it: though you nor I do not ſee the rea<g ref="char:EOLhyphen"/>ſon of an affliction, yet God will give a reaſon. The wiſe God he can, and the loving God he will give you and I a reaſon for every affliction, that we ſhall ſay, It was good for us that we were afflicted. Another thought, is this;</item>
+                     <item>2. That <hi>whatever the Lord doth in his providence, he will never break a promiſe;</hi> I mean a ſpiritual promiſe, that in any thing he hath made to thee. And of all promiſes, I ſhall inſtance in that great promiſe, the Covenant, in <hi>Pſal.</hi> 89.32, 33. where ſaith God, <hi>If they break my Statutes, then will I viſit their tranſgreſsions with a Rod, and their ini<g ref="char:EOLhyphen"/>quity with ſtripes; nevertheleſse my lo<g ref="char:EOLhyphen"/>ving kindneſse will I not utterly take from them: nor ſuffer my faithfulneſſe to fail, my Covenant will I not break,</hi> &amp;c. If I
+<pb n="41" facs="tcp:119614:29"/>take away that which was their be<g ref="char:EOLhyphen"/>loved, I'le never take away my own Love. I'le ſnatch away what you love moſt, but I'le never take away my own love. Though the Sun ſet in the firmament, yet the Sun of Righteouſ<g ref="char:EOLhyphen"/>neſſe ſhall never ſer. A third head is this.</item>
+                  </list>
+               </item>
+               <item>3. <hi>If you would hold your peace,</hi> Pray; And if you cannot tell what to pray, turn to <hi>David,</hi> and learn of him, in <hi>Pſal.</hi> 141.3. <hi>Set a watch (O Lord) before my mouth: keep the door of my lipps.</hi> My Bre<g ref="char:EOLhyphen"/>thren, <hi>bad ſpeeches are like rebellious Ene<g ref="char:EOLhyphen"/>mies,</hi> they will break out of doors, what ſhall keep them in? A good Watch. O but, ſaith the Soul, I am not ſtrong enough to keep a watch: Why then pray, <hi>Lord keep a watch</hi> for me. O my beloved, if the Lord would but help you to be more in prayer, ſpeaking to him, you would be more in holding your peace. I have now hinted, what is our duty, and offered to help you in
+<pb n="42" facs="tcp:119614:30"/>it. <hi>Aaron</hi> did, and we all muſt, hold our peace. I would ſay no more, But me thinks I hear ſome body ready to ſay, But what is this Sermon to us, Whoever have loſt, ſaith one, I have loſt nothing, I have all my Children, all my Cattell, and I am flouriſhing and green. O Friends, I beſeech you (as the Prophet <hi>Iſaiah</hi> ſpeaks in another caſe) <hi>hear for the time to come;</hi> you can<g ref="char:EOLhyphen"/>not tell what a day may bring forth: <hi>You cannot tell what a day may bring forth in private; nay, what God may do in pub<g ref="char:EOLhyphen"/>lick we cannot tell.</hi> Doth God begin with Beaſts, and may not he end with men? Doth God take away our <hi>Cattell,</hi> and may not he take away our <hi>Chil<g ref="char:EOLhyphen"/>dren?</hi> You know what <hi>Zephaniah</hi> ſaith in <hi>chap.</hi> 1. <hi>v.</hi> 7. Hold thy peace at the preſence of the Lord, for the day of the Lord is at hand. My Beloved, there may be a day of the Lord at hand, <hi>a day of blackneſs, a day of darkneſse, and a day of gloomineſse;</hi> God may ſmite us in
+<pb n="43" facs="tcp:119614:30"/>the winter, and in the Summer-houſe, God may ſmite us in <hi>publick</hi> relations, and in <hi>private</hi> relations. I would ra<g ref="char:EOLhyphen"/>ther help your faith, then create fears. Therefore I will not tell my private thoughts (which poſſibly may be my melancholy) upon publique accounts. Yet this I'le ſay, God hath put us to ſi<g ref="char:EOLhyphen"/>lence by ſtrange providences: and if he put us to ſilence by ſad, diſmal, ſuffer<g ref="char:EOLhyphen"/>ing, providences, it is no marvel, for we have provoked the Lord unto it. It is therefore a word of advice before a ſtorm come, before afflictions do over<g ref="char:EOLhyphen"/>take you, learn your duty. It is good to know, we muſt hold our peace at the Lord's preſence; and if ever the Lord comes to your houſe, as he did to <hi>Aa<g ref="char:EOLhyphen"/>ron</hi>'s, in any ſad, ſore, ſharp, provi<g ref="char:EOLhyphen"/>dence: here is your duty, do as <hi>Aaron</hi> did, He held his peace.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="text">
+            <pb facs="tcp:119614:31"/>
+            <head>In Parentalia chariſſimae Sororis.</head>
+            <l>
+               <hi>SArcophagus tenerae juvenilia continet oſſa,</hi>
+            </l>
+            <l>
+               <hi>Durantis <hi>
+                     <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> piae ſemper memoranda Mariae.</hi>
+               </hi>
+            </l>
+            <l>
+               <hi>Quamvis deſcenſa eſt et ad interiora ſepulchri,</hi>
+            </l>
+            <l>
+               <hi>Nil aliud reſonat, quin ad ſuprema reſurgat</hi>
+            </l>
+            <l>
+               <hi>Coeli coelorum: cecidit jam argentea stella;</hi>
+            </l>
+            <l>
+               <hi>At coelis oritur stellae melioris origo.</hi>
+            </l>
+            <l>
+               <hi>Plandite Coelicolae adventum nunc hoſpitis hu<g ref="char:EOLhyphen"/>jus</hi>
+            </l>
+            <l>
+               <hi>Et gratum numero Sanctorum reddite veſtro.</hi>
+            </l>
+            <l>
+               <hi>Sic deflet <hi>Johannes Durant,</hi> frater.</hi>
+            </l>
+            <pb facs="tcp:119614:31"/>
+            <pb facs="tcp:119614:32"/>
+         </div>
+      </back>
+   </text>
+</TEI>
